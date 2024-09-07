@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <div>
-      <p>Copyright ©</p>
+      Copyright © 2024 Natapon Phairin 660610749
     </div>
   );
 }
